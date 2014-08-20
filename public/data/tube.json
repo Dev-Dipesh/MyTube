@@ -1,0 +1,10 @@
+{
+    "Dev":  {"ipath" : "images/Ind-Dev.png", "xoff": 90, "yoff": 10, "xsiz": "", "ysiz": ""},
+    "Test": {"ipath" : "images/Ind-Test.png", "xoff": 600, "yoff": 120, "xsiz": "", "ysiz": ""},
+    "Arch": {"ipath" : "images/Ind-Arch.png", "xoff": 160, "yoff": 400, "xsiz": "", "ysiz": ""},
+    "Mobi": {"ipath" : "images/Ind-Mobility.png", "xoff": 285, "yoff": 80, "xsiz": "", "ysiz": ""},
+    "Mtnc": {"ipath" : "images/Ind-Maint.png", "xoff": 560, "yoff": 447, "xsiz": "", "ysiz": ""},
+    "Data": {"ipath" : "images/Ind-DataRef.png", "xoff": 0, "yoff": 130, "xsiz": "", "ysiz": ""},
+    "BigD": {"ipath" : "images/Ind-BigD.png", "xoff": 345, "yoff": 118, "xsiz": "", "ysiz": ""},
+    "Tool": {"ipath" : "images/Ind-ToolsFr.png", "xoff": 128, "yoff": 68, "xsiz": "", "ysiz": ""}
+}

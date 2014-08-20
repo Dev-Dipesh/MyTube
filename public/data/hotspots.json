@@ -1,0 +1,36 @@
+{
+    "Dev": [
+        {"x": 240, "y": 40,  "link": {"type": "internal", "to": "Test"}, "hotspot": {"shape": "circle", "radius": 30}},
+        {"x": 232, "y": 699, "link": {"type": "internal", "to": "Arch"}, "hotspot": {"shape": "circle", "radius": 30}},
+        {"x": 575, "y": 543, "link": {"type": "internal", "to": "Mtnc"}, "hotspot": {"shape": "circle", "radius": 30}},
+        {"x": 117, "y": 455, "link": {"type": "internal", "to": "Tool"}, "hotspot": {"shape": "circle", "radius": 20}},
+        {"x": 465, "y": 700, "link": {"type": "url", "to": "http://www.genisys-group.com/consulting.html"},
+            "hotspot": {"shape": "circle", "radius": 30}},
+        {"x": 418, "y": 33, "link": {"type": "url", "to": "resources/SoftwareServicesGenisys.pdf"},
+            "hotspot": {"shape": "rect", "height": 30, "width": 160}}
+    ],
+    "Test": [
+        {"x": 895, "y": 393, "link": {"type": "internal", "to": "Mobi"}, "hotspot": {"shape": "circle", "radius": 20}},
+        {"x": 625, "y": 255, "link": {"type": "url", "to": "http://www.genisys-group.com/itapp_assurance_services.html"},
+            "hotspot": {"shape": "rect", "height": 20, "width": 60}}
+    ],
+    "Mobi": [
+        {"x": 675, "y": 335, "link": {"type": "url", "to": "http://www.genisys-group.com/mobility"},
+            "hotspot": {"shape": "rect", "height": 20, "width": 60}}
+    ],
+    "Mtnc": [
+        {"x": 692, "y": 488, "link": {"type": "url", "to": "http://www.genisys-group.com/application_management.html"},
+            "hotspot": {"shape": "rect", "height": 20, "width": 150}}
+    ],
+    "Arch": [
+        {"x": 255, "y": 467, "link": {"type": "internal", "to": "Tool"}, "hotspot": {"shape": "rect", "height": 20, "width": 100}},
+        {"x": 230, "y": 472, "link": {"type": "internal", "to": "Data"}, "hotspot": {"shape": "circle", "radius": 20}}
+    ],
+    "Data": [
+        {"x": 246, "y": 283, "link": {"type": "internal", "to": "BigD"}, "hotspot": {"shape": "circle", "radius": 15}},
+        {"x": 255, "y": 467, "link": {"type": "internal", "to": "Tool"}, "hotspot": {"shape": "rect", "height": 20, "width": 100}}
+    ],
+    "Tool": [
+        {"x": 685, "y": 207, "link": {"type": "internal", "to": "Test"}, "hotspot": {"shape": "circle", "radius": 15}}
+    ]
+}
